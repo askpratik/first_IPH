@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Swift first App
 //
-//  Created by Pratik Chauhan on 29/4/17.
-//  Copyright © 2017 Pratik Chauhan. All rights reserved.
+//  Created by Pratik on 29/4/17.
+//  Copyright © 2017 Pratik. All rights reserved.
 //
 
 import UIKit
